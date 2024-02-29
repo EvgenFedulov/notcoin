@@ -1,0 +1,2 @@
+# notcoin
+node notcoin
